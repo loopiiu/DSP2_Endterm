@@ -6,3 +6,6 @@ The objective of the competition is to develop a predictive model that determine
 Dataset was taken from Kaggle.<br>
 Here is the link [link](https://www.kaggle.com/datasets/hamzaghanmi/expresso-churn-prediction-challenge?select=Train.csv)
 
+In the __notebook__ section you can find 2 notebook files. 
+- The first notebook consists of applying different classification model with our datasets, along with the data cleaning. 
+- The second notebook is all about EDA.
