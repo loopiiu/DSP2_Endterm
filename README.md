@@ -1,4 +1,4 @@
-# DSP2_Endterm
+# Data Science Programming 2 Endterm
 ## About the dataset
 ### Context
 This data was imported from the zindi platform in the context of competition and here is the [link](https://zindi.africa/competitions/expresso-churn-prediction) to the competition.<br>
